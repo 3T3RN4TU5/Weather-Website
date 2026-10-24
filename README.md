@@ -1,6 +1,6 @@
 # Weather Website
 
-Type a city or state to see the current temperature, conditions, feels-like, humidity and wind speed from the OpenWeatherMap API.
+Type a city or state to see the current temperature, conditions, feels-like, humidity and wind speed from the Open-Meteo API (free, no API key needed).
 
 **Live:** https://jeevan2410.github.io/Weather-Website/
 
@@ -10,7 +10,7 @@ Type a city or state to see the current temperature, conditions, feels-like, hum
 
 ## Built with
 
-Plain HTML, CSS and JavaScript, with the OpenWeatherMap current weather API and Font Awesome icons.
+Plain HTML, CSS and JavaScript, with the Open-Meteo geocoding and forecast APIs and Font Awesome icons.
 
 ## Run it locally
 
