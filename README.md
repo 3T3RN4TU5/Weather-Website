@@ -2,7 +2,7 @@
 
 Type a city or state to see the current temperature, conditions, feels-like, humidity and wind speed from the Open-Meteo API (free, no API key needed).
 
-**Live:** https://jeevan2410.github.io/Weather-Website/
+**Live:** https://3t3rn4tu5.github.io/Weather-Website/
 
 ![Weather card for Mangaluru showing 29°C and scattered clouds](docs/screenshot.jpg)
 
